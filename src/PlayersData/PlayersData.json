@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Tamim Iqbal Khan",
+    "country": "Bangladesh",
+    "club": "Chattogram Kings",
+    "salary": 10000,
+    "role": "Opening Batsman",
+    "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170899/tamim-iqbal.jpg"
+  },
+  {
+    "name": "Liton Kumar Das",
+    "country": "Bangladesh",
+    "club": "Rangpur Riders",
+    "salary": 9000,
+    "role": "Wicketkeeper Batsman",
+    "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170914/liton-das.jpg"
+  },
+  {
+    "name": "Soumya Sarkar",
+    "country": "Bangladesh",
+    "club": "Sylhet Titans",
+    "salary": 8090,
+    "role": "Batting All-Rounder",
+    "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170900/soumya-sarkar.jpg"
+  },
+  {
+    "name": "Mushfiqur Rahim",
+    "country": "Bangladesh",
+    "club": "Rajshahi Kings",
+    "salary": 11005,
+    "role": "Wicketkeeper Batsman",
+    "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170916/mushfiqur-rahim.jpg"
+  },
+  {
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "club": "Dhaka Dynamites",
+    "salary": 12000,
+    "role": "All-Rounder",
+    "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170912/shakib-al-hasan.jpg"
+  },
+  {
+    "name": "Mahmudullah Riad",
+    "country": "Bangladesh",
+    "club": "Khulna Royals",
+    "salary": 10050,
+    "role": "Batting All-rounder",
+    "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170905/mahmudullah.jpg"
+  },
+  {
+    "name": "MD Saifuddin",
+    "country": "Bangladesh",
+    "club": "Rajshahi Kings",
+    "salary": 7050,
+    "role": "Bowling All-rounder",
+    "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170907/mohammad-saifuddin.jpg"
+  },
+  {
+    "name": "Mashrafe Mortaza",
+    "country": "Bangladesh",
+    "club": "Khulna Royals",
+    "salary": 12110,
+    "role": "Fast Bowler",
+    "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170920/mashrafe-mortaza.jpg"
+  },
+  {
+    "name": "Taijul Islam",
+    "country": "Bangladesh",
+    "club": "Dhaka Dynamites",
+    "salary": 7080,
+    "role": "Spin Bowler",
+    "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c148279/taijul-islam.jpg"
+  },
+  {
+    "name": "Mustafizur Rahman",
+    "country": "Bangladesh",
+    "club": "Sylhet Titans",
+    "salary": 9095,
+    "role": "Fast Bowler",
+    "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170925/mustafizur-rahman.jpg"
+  },
+  {
+    "name": "Mehidy Hasan",
+    "country": "Bangladesh",
+    "club": "Sylhet Titans",
+    "salary": 6060,
+    "role": "Bowling All-Rounder",
+    "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c148289/mehidy-hasan.jpg"
+  },
+  {
+    "name": "Rubel Hossain",
+    "country": "Bangladesh",
+    "club": "Rajshahi Kings",
+    "salary": 7040,
+    "role": "Fast Bowler",
+    "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170922/rubel-hossain.jpg"
+  }
+]
