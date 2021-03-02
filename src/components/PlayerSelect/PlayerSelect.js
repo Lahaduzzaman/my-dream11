@@ -1,10 +1,12 @@
 import React from "react";
 import "./PlayerSelect.css";
 
-
 const PlayerSelect = (props) => {
   const selectPlayer = props.selectPlayer;
-  const totalSalary = selectPlayer.reduce((sum, totalSalary) => sum + totalSalary.salary,0);
+  const totalSalary = selectPlayer.reduce(
+    (sum, totalSalary) => sum + totalSalary.salary,
+    0
+  );
 
   return (
     <div>
